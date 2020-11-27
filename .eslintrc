@@ -1,0 +1,3 @@
+{
+  "extends": ["@logic-warlock", "@logic-warlock/react"]
+}
